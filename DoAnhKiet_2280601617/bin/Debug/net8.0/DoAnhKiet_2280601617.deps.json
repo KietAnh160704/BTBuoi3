@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DoAnhKiet_2280601617/1.0.0": {
+        "runtime": {
+          "DoAnhKiet_2280601617.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DoAnhKiet_2280601617/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
