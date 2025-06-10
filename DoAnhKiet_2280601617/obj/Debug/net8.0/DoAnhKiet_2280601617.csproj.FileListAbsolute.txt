@@ -28,3 +28,4 @@ D:\workspace\ASP.NET CORE\Bt\DoAnhKiet_2280601617\DoAnhKiet_2280601617\obj\Debug
 D:\workspace\ASP.NET CORE\Bt\DoAnhKiet_2280601617\DoAnhKiet_2280601617\obj\Debug\net8.0\DoAnhKiet_2280601617.pdb
 D:\workspace\ASP.NET CORE\Bt\DoAnhKiet_2280601617\DoAnhKiet_2280601617\obj\Debug\net8.0\DoAnhKiet_2280601617.genruntimeconfig.cache
 D:\workspace\ASP.NET CORE\Bt\DoAnhKiet_2280601617\DoAnhKiet_2280601617\obj\Debug\net8.0\ref\DoAnhKiet_2280601617.dll
+D:\workspace\ASP.NET CORE\Bt\DoAnhKiet_2280601617\DoAnhKiet_2280601617\obj\Debug\net8.0\DoAnhKiet_2280601617.sourcelink.json
